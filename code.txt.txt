@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi hello welcome dudes.
+=======
+hi hello welcome buddy.
+>>>>>>> origin/master
